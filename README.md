@@ -12,4 +12,4 @@ and you can access more than 50000 game in one page
 'localhost/Gamespider'<br>
 
 #Screen Shoot
-<img src = "https://github.com/aa-ahmed-aa/GameSpider/image.png">
+<img src = "https://github.com/aa-ahmed-aa/GameSpider/blob/master/image.png">
